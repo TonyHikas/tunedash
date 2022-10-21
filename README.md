@@ -1,4 +1,4 @@
-# Modular dashboard and electronics case
+# TuneDash - Modular dashboard and electronics case
 
 ## Idea
 
